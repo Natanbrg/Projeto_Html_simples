@@ -1,0 +1,1 @@
+Este projeto consiste no desenvolvimento de um site simples para apresentar as tags aprendidas durante o curso em Html.
